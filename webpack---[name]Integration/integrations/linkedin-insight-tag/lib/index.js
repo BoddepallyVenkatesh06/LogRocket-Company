@@ -1,0 +1,1 @@
+No Content: webpack://[name]Integration/integrations/linkedin-insight-tag/lib/index.js

@@ -1,0 +1,1 @@
+No Content: webpack://segment/analytics-next/src/browser/standalone-analytics.ts

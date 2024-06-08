@@ -1,0 +1,1 @@
+No Content: webpack://[name]Integration/integrations/wootric/lib/index.js

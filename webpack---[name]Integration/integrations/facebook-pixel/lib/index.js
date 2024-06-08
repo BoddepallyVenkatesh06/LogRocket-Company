@@ -1,0 +1,1 @@
+No Content: webpack://[name]Integration/integrations/facebook-pixel/lib/index.js

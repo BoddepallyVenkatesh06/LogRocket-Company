@@ -1,0 +1,1 @@
+No Content: webpack://[name]Integration/(webpack)/buildin/global.js
